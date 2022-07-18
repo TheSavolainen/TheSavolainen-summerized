@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VilleMatti01
-- 👀 I’m interested in backend and game dev
+- 👀 I’m interested in backend and software development
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on small projects
 - 📫 You can contact me in twitter or facebook
